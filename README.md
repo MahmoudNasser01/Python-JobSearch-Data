@@ -2,6 +2,11 @@
 A repo that contains all the data needed for people who are looking for Django positions
 
 
+# Telegram Channels
+- https://t.me/DjangoPython
+- https://t.me/DataScience4
+- https://t.me/OPENVACANCIES2022
+- https://t.me/python_django_work
 
 
 # Companies that work with Python/Django
