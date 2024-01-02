@@ -57,6 +57,10 @@ A repo that contains all the data needed for people who are looking for Django p
 - https://www.linkedin.com/company/innovadigits/
 
 
+## Other
+- https://www.linkedin.com/company/and-work/
+
+
 
 ## Singapore Jobs websites
 - https://www.jobstreet.com
