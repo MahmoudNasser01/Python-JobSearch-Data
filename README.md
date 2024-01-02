@@ -59,6 +59,8 @@ A repo that contains all the data needed for people who are looking for Django p
 
 ## Other
 - https://www.linkedin.com/company/and-work/
+- https://www.linkedin.com/company/nextgear/
+- https://www.linkedin.com/company/kodexolabs/
 
 
 
