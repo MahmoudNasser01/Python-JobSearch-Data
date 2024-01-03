@@ -22,6 +22,9 @@ A repo that contains all the data needed for people who are looking for Django p
 - https://www.linkedin.com/company/oculavis-gmbh/
 - https://www.linkedin.com/company/mylantech-gmbh/
 - https://www.linkedin.com/company/zyklum/
+- https://www.linkedin.com/company/geops/
+- https://www.linkedin.com/company/grid-singularity/
+- 
 
 ## USA
 - https://www.linkedin.com/company/fly-io/
@@ -33,7 +36,7 @@ A repo that contains all the data needed for people who are looking for Django p
 - https://www.linkedin.com/company/jabil/
 
 
-## Saudi Arabia and UAE
+## Saudi Arabia and UAE, Kaiwat
 - https://www.linkedin.com/company/neob1s/
 - https://www.linkedin.com/company/hcltech/
 - https://www.linkedin.com/company/compucom/people/
@@ -42,6 +45,8 @@ A repo that contains all the data needed for people who are looking for Django p
 - https://www.linkedin.com/company/lean-sa/
 - https://www.linkedin.com/company/mshfa-app/
 - https://www.linkedin.com/company/flint-si/
+- https://www.linkedin.com/company/kuwaitnet/
+- 
 
 
 ## Egypt
@@ -70,6 +75,7 @@ A repo that contains all the data needed for people who are looking for Django p
 - https://www.linkedin.com/company/torchbox/
 - https://www.linkedin.com/company/octopusenergy/
 - https://www.linkedin.com/company/beauhurst/
+- https://www.linkedin.com/company/finter-cloud/
 
 ## Singapore Jobs websites
 - https://www.jobstreet.com
