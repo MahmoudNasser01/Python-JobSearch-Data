@@ -21,6 +21,7 @@ A repo that contains all the data needed for people who are looking for Django p
 - https://www.linkedin.com/company/envelio/
 - https://www.linkedin.com/company/oculavis-gmbh/
 - https://www.linkedin.com/company/mylantech-gmbh/
+- https://www.linkedin.com/company/zyklum/
 
 ## USA
 - https://www.linkedin.com/company/fly-io/
