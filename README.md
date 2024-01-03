@@ -69,6 +69,7 @@ A repo that contains all the data needed for people who are looking for Django p
 - https://www.linkedin.com/company/kodexolabs/
 - https://www.linkedin.com/company/torchbox/
 - https://www.linkedin.com/company/octopusenergy/
+- https://www.linkedin.com/company/beauhurst/
 
 ## Singapore Jobs websites
 - https://www.jobstreet.com
