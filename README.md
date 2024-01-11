@@ -24,6 +24,7 @@ A repo that contains all the data needed for people who are looking for Django p
 - https://www.linkedin.com/company/zyklum/
 - https://www.linkedin.com/company/geops/
 - https://www.linkedin.com/company/grid-singularity/
+- https://www.linkedin.com/company/dlthub/
 - 
 
 ## USA
@@ -35,6 +36,8 @@ A repo that contains all the data needed for people who are looking for Django p
 - https://www.linkedin.com/company/comfreight-com/
 - https://www.linkedin.com/company/jabil/
 - https://www.linkedin.com/company/casefleet/
+- https://www.linkedin.com/company/sixfeetup/
+- https://www.linkedin.com/company/loginsoft/
 
 
 ## Saudi Arabia and UAE, Kaiwat
@@ -83,6 +86,8 @@ A repo that contains all the data needed for people who are looking for Django p
 - https://www.linkedin.com/company/nimonik/
 - https://www.linkedin.com/company/polarsteps/
 - https://www.linkedin.com/company/digital-science/
+- https://www.linkedin.com/company/bnbprofits-bali-real-estate-investments/
+- https://www.linkedin.com/company/rapidor/
 
 ## Singapore Jobs websites
 - https://www.jobstreet.com
