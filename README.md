@@ -85,6 +85,14 @@ A repo that contains all the data needed for people who are looking for Django p
 - https://www.linkedin.com/company/synapse-analytics/
 - https://www.linkedin.com/company/blnkconsumerfinance/
 - https://www.linkedin.com/company/dxwand/
+- https://www.linkedin.com/company/kwentraecosystem/
+- https://www.linkedin.com/company/nooncom/
+- https://www.linkedin.com/company/xpovi/about/
+- https://www.linkedin.com/company/estafsar/
+- https://www.linkedin.com/company/codescalers-egypt/
+- https://www.linkedin.com/company/truflatech/
+- https://www.linkedin.com/company/valifysolutions/
+- https://linkedin.com/company/amenli/
 
 
 ## Other
