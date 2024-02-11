@@ -71,6 +71,33 @@ A repo that contains all the data needed for people who are looking for Django p
 - https://www.linkedin.com/company/thndrapp/
 - https://www.linkedin.com/company/innovadigits/
 - https://www.linkedin.com/company/tawasolmap/
+- https://www.linkedin.com/company/treyd/
+- https://www.linkedin.com/company/giza-systems/
+- https://www.linkedin.com/company/link-development/
+- https://www.linkedin.com/company/moneyhash/
+- https://www.linkedin.com/company/affectiva_2/
+- https://www.linkedin.com/company/bldai/
+- https://www.linkedin.com/company/trysary/
+- https://www.linkedin.com/company/anspireagency/
+- https://www.linkedin.com/company/shahry/
+- https://www.linkedin.com/company/itworx/
+- https://www.linkedin.com/company/digisay/
+- https://www.linkedin.com/company/synapse-analytics/
+- https://www.linkedin.com/company/blnkconsumerfinance/
+- https://www.linkedin.com/company/dxwand/
+- https://www.linkedin.com/company/kwentraecosystem/
+- https://www.linkedin.com/company/nooncom/
+- https://www.linkedin.com/company/xpovi/
+- https://www.linkedin.com/company/estafsar/
+- https://www.linkedin.com/company/codescalers-egypt/
+- https://www.linkedin.com/company/truflatech/
+- https://www.linkedin.com/company/valifysolutions/
+- https://linkedin.com/company/amenli/
+- https://www.linkedin.com/company/lenmecorp/
+- https://www.linkedin.com/company/flextock/
+- https://www.linkedin.com/company/transport-for-cairo/
+- https://www.linkedin.com/company/shouf/
+- https://www.linkedin.com/company/preventia-technologies/
 
 
 ## Other
