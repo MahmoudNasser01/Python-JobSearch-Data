@@ -99,6 +99,8 @@ A repo that contains all the data needed for people who are looking for Django p
 - https://www.linkedin.com/company/shouf/
 - https://www.linkedin.com/company/preventia-technologies/
 - https://www.linkedin.com/company/dphish/
+- https://www.linkedin.com/company/shelterinvestment/
+- https://www.linkedin.com/company/whitehelmet/
 
 
 ## Other
