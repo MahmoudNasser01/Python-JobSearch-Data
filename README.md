@@ -103,6 +103,8 @@ A repo that contains all the data needed for people who are looking for Django p
 - https://www.linkedin.com/company/shelterinvestment/
 - https://www.linkedin.com/company/whitehelmet/
 - https://linkedin.com/company/vegadataai/
+- https://www.linkedin.com/company/abdul-latif-jameel-finance-egypt/
+  
 
 
 ## Other
