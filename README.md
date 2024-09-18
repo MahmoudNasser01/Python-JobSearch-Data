@@ -50,7 +50,7 @@ A repo that contains all the data needed for people who are looking for Django p
 - https://www.linkedin.com/company/mshfa-app/
 - https://www.linkedin.com/company/flint-si/
 - https://www.linkedin.com/company/kuwaitnet/
-- 
+- https://linkedin.com/company/vegadataai/
 
 
 ## Egypt
@@ -101,6 +101,7 @@ A repo that contains all the data needed for people who are looking for Django p
 - https://www.linkedin.com/company/dphish/
 - https://www.linkedin.com/company/shelterinvestment/
 - https://www.linkedin.com/company/whitehelmet/
+- https://linkedin.com/company/vegadataai/
 
 
 ## Other
