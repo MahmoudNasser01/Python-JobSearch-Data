@@ -50,7 +50,6 @@ A repo that contains all the data needed for people who are looking for Django p
 - https://www.linkedin.com/company/mshfa-app/
 - https://www.linkedin.com/company/flint-si/
 - https://www.linkedin.com/company/kuwaitnet/
-- https://linkedin.com/company/vegadataai/
 
 
 
