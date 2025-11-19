@@ -108,6 +108,10 @@ A repo that contains all the data needed for people who are looking for Django p
 
   
 
+## Turkey
+- https://www.linkedin.com/company/amani-ai/
+
+
 
 ## Other
 - https://www.linkedin.com/company/and-work/
