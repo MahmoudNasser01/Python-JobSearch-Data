@@ -40,7 +40,7 @@ A repo that contains all the data needed for people who are looking for Django p
 - https://www.linkedin.com/company/loginsoft/
 
 
-## Kuwait, Saudi Arabia, and UAE
+## Kuwait, Saudi Arabia, UAE, Jordan
 - https://www.linkedin.com/company/neob1s/
 - https://www.linkedin.com/company/hcltech/
 - https://www.linkedin.com/company/compucom/people/
@@ -50,7 +50,7 @@ A repo that contains all the data needed for people who are looking for Django p
 - https://www.linkedin.com/company/mshfa-app/
 - https://www.linkedin.com/company/flint-si/
 - https://www.linkedin.com/company/kuwaitnet/
-
+- https://www.linkedin.com/company/sitechinc/
 
 
 ## Egypt
